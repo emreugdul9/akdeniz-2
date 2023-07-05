@@ -15,3 +15,9 @@
     justify-content: center;
     align-items: center;
 }
+.filters {
+    width: 60%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
